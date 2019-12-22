@@ -1,0 +1,25 @@
+
+
+touch filename.txt
+
+start filename.txt
+
+
+
+creat git local repositery
+---------------------------
+git init
+
+git add filename.txt
+
+git status
+
+git config --global user.name "abc"
+
+git config --global user.email "abc@example.com"
+
+git commit -m "completed filename.txt"
+
+git log (log in information)
+
+ if you want to add all files: git add .
